@@ -16,4 +16,4 @@ I welcome feedback and suggestions. If you find an alternative or more optimal s
 ## My LeetCode Profile
 You can view my full LeetCode progress and stats on my profile:
 
-(LeetCode Profile)[https://leetcode.com/u/jay923060/]
+[LeetCode Profile](https://leetcode.com/u/jay923060/)
