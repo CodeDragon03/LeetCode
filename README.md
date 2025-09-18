@@ -2,7 +2,7 @@
 Welcome to my repository of LeetCode solutions. This space is a dedicated record of my journey in mastering data structures and algorithms, with each solution reflecting my commitment to continuous learning and growth in competitive programming.
 
 ## How to Use This Repository
-Each problem folder is designed to be self-contained. The solution.py file (or your preferred language) contains the complete, well-commented code. Additionally, you may find a README.md within a problem folder that provides a detailed breakdown of the thought process for that specific solution, including:
+Each problem folder is designed to be self-contained. The solution.cpp file contains the complete, well-commented code. Additionally, you may find a README.md within a problem folder that provides a detailed breakdown of the thought process for that specific solution, including:
 
 - Problem Statement: A concise summary of the problem.
 
