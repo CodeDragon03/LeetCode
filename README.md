@@ -4,15 +4,7 @@ Welcome to my repository of LeetCode solutions. This space is a dedicated record
 
 ## How to Use This Repository
 
-Each problem folder is designed to be self-contained. The solution.cpp file contains the complete, well-commented code. Additionally, you may find a README.md within a problem folder that provides a detailed breakdown of the thought process for that specific solution, including:
-
-- Problem Statement: A concise summary of the problem.
-
-- Thought Process: An explanation of the naive approach, why it is inefficient, and how to optimize it.
-
-## Contributing and Feedback
-
-I welcome feedback and suggestions. If you find an alternative or more optimal solution to any of the problems, feel free to open a pull request. This repository is intended not just for tracking my progress but also for fostering a collaborative learning environment.
+Each problem folder is designed to be self-contained. The solution.cpp file contains the complete, well-commented code. 
 
 ## My LeetCode Profile
 
